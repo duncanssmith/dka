@@ -1,2 +1,2 @@
 # dka
-A stack with nginx, mariadb, php8 and laravel8
+A stack with docker containers for nginx, mariadb, php8
